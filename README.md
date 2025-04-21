@@ -5,11 +5,17 @@ I'm a passionate software engineering student currently pursuing my **M.Tech (In
 ---
 
 ## 🚀 Skills
+## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: Node.js, Express
-- **Data Analysis & Visualization**: Python, MS Excel
-- **Version Control**: Git, GitHub
+<p>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" width="40"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" width="40"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40"/>
+  <img src="https://img.icons8.com/officel/40/react.png" alt="React" width="40"/>
+</p>
+
+
+
 
 ---
 
