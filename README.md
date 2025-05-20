@@ -26,6 +26,7 @@ I'm a passionate software engineering student currently pursuing my **M.Tech (In
   </a>
 </p>
 
+#### Leetcode Status
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Venky_K2307?theme=dark&font=Abel)
 
 
