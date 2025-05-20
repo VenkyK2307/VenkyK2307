@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Venkateswara Reddy Kamasani
 
-I'm a passionate software engineering student currently pursuing my **M.Tech (Integrated)** at **VIT Vellore**. I specialize in **Web Development**, **Machine Learning**, and **UI/UX Design**. I love creating **interactive web applications** and diving deep into **data analysis**.
+I'm a passionate software engineering student currently pursuing my **M.Tech (Integrated)** at **VIT Vellore**. I'm Intrested in **Web Development**, **Machine Learning**, and **UI/UX Design**. I love creating **interactive web applications** and diving deep into **data analysis**.
 
 
 #### 🚀 Skills
@@ -25,6 +25,8 @@ I'm a passionate software engineering student currently pursuing my **M.Tech (In
     <img src="https://img.icons8.com/?size=100&id=12598&format=png&color=000000" alt="GitHub" width="40"/>
   </a>
 </p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Venky_K2307?theme=dark&font=Abel)
 
 
 
