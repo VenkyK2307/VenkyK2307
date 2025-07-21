@@ -26,8 +26,17 @@ I'm a passionate software engineering student currently pursuing my **M.Tech (In
   </a>
 </p>
 
+
 #### Leetcode Status
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Venky_K2307?theme=dark&font=Abel)
+
+
+#### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VenkyK2307&show_icons=true&theme=radical&hide_title=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eshxl&theme=radical" height="150"/>
+</p>
 
 
 
